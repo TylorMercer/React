@@ -2,6 +2,7 @@ import NewExpense from "./Components/NewExpense/NewExpense";
 import Expenses from "./Components/Expenses/Expenses";
 
 const App = () => {
+  //This will change
   const expenses = [
     {
       id: "e1",
