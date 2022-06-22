@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import NewExpense from "./Components/NewExpense/NewExpense";
 import Expenses from "./Components/Expenses/Expenses";
 
-//Need to update
+//Need to update here
 const DUMMY_EXPENSES = [
   {
     id: "e1",
